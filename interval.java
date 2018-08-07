@@ -17,7 +17,7 @@ class Ideone
       if (a % 2 != 0)
       {
         System.out.print(a);
-        System.out.print("\t");
+        System.out.print(" ");
        }
      }
    }
